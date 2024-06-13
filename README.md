@@ -6,6 +6,9 @@ This movie recommendation system uses content-based filtering techniques to sugg
 
 # Features
 Personalized Recommendations: Get movie suggestions based on your ratings and preferences.
+
 Search Functionality: Search for movies in the database.
+
 Top Trending Movies: View a list of currently trending movies.
+
 User Ratings: Rate movies to improve recommendation accuracy.
