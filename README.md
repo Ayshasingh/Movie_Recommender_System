@@ -13,5 +13,5 @@ This movie recommendation system uses content-based filtering techniques to sugg
 
 **User Ratings:** Rate movies to improve recommendation accuracy.
 
-#Final Result
+# Final Result
 ![image](https://github.com/DEVESH-SHAH/Movie_Recommender_System/assets/105813279/444ed846-1cd3-4351-8293-50a5912be243)
