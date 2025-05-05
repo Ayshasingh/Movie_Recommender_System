@@ -15,3 +15,11 @@ This movie recommendation system uses content-based filtering techniques to sugg
 
 # Final Result
 ![image](https://github.com/DEVESH-SHAH/Movie_Recommender_System/assets/105813279/444ed846-1cd3-4351-8293-50a5912be243)
+
+---
+
+### 🔗 Original Project  
+This project was originally created by [Devesh Shah](https://github.com/DEVESH-SHAH/Movie_Recommender_System).  
+I have forked and customized it for learning and personal development purposes.
+
+---
